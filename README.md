@@ -8,3 +8,5 @@ Homework#2, simple calculator 구현
 Homework#4 구현
 
 main
+
+devC
